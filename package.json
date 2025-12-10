@@ -14,7 +14,7 @@
     "axios": "^1.12.2",
     "chart.js": "^4.5.1",
     "cors": "^2.8.5",
-    "express": "^5.1.0",
+    "express": "^5.2.1",
     "mongoose": "^8.19.2",
     "pinia": "^3.0.3",
     "recharts": "^3.3.0",
