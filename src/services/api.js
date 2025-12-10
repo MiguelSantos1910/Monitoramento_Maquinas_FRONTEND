@@ -1,5 +1,5 @@
 import axios from "axios";
 const api = axios.create({
-    baseURL: 'monitoramento_maquinas_backend.railway.internal'
+    baseURL: 'monitoramentomaquinasbackend-production.up.railway.app'
 });
 export default api;
